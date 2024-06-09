@@ -1,4 +1,4 @@
-## Civil Registry Mock Plugin
+## Civil Registry Mock Plugin, Source https://github.com/eirikhaugstulen/civil-registry-plugin
 
 ⚠️  Please do not use this in production. This is a mock plugin and should only be used for demonstration purposes.
 

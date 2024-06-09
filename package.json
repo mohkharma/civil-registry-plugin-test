@@ -25,5 +25,8 @@
     "formik": "^2.4.5",
     "tailwindcss": "^3.4.3",
     "typescript": "^5.4.5"
+  },
+  "resolutions": {
+    "strip-ansi": "6.0.0"
   }
 }
